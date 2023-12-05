@@ -37,7 +37,7 @@ namespace DZ_Sem_2
                     {
                         try // иногда выскакивала непонятная ошибка
                         {
-                            byte[] buffer = udpClient.Receive(ref iPEndPoint);
+                            byte[] buffer = udpClient.Receive(ref iPEndPoint); // перенес внутрь потока, т.к. иначе программу не закрыть, пока не придет сообщение
                             var messageText = Encoding.UTF8.GetString(buffer);
                             Message message = Message.DeserializeFromJson(messageText);
                             message.Print();
