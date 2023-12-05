@@ -1,0 +1,42 @@
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.deps.json
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.runtimeconfig.json
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.exe
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\Client.exe
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\Client.dll
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.dll
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.pdb
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.csproj.CopyComplete
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.dll
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\C#\DZ_Sem_2\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.deps.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.runtimeconfig.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.exe
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\Client.exe
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\Client.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\bin\Debug\net8.0\DZ_Sem_2.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.csproj.CopyComplete
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\DZ_Sem_2\Client\obj\Debug\net8.0\ref\Client.dll
